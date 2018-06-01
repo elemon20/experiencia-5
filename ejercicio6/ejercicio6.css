@@ -86,7 +86,7 @@ div .col-md-12, .col-sm-12{
 	background-color: #27D95A;
 	font-family: 'Helvetica Neue CE 55';
 	color: white;
-	height: 40%;
+	height: 40vh;
 	margin: 0px; 
 	text-align: center;
 	font-size: 100%;
@@ -100,5 +100,4 @@ div .col-md-12, .col-sm-12{
 }
 div .col-md-4, .col-sm-2 p{
 	font-family: 'Helvetica Neue CE 55';
-
 }
